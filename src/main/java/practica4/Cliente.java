@@ -1,5 +1,5 @@
 package practica4;
-
+//Prueba
 public class Cliente {
 	//Atributos
 	private static String nombre;
